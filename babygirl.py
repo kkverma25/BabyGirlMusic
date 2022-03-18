@@ -48,7 +48,7 @@ START_TEXT = """
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 ┏━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id=1356469075)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝐄𝐕𝐄𝐑𝐄𝐓𝐓](tg://user?id=2043447979)
 ┣★
 ┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id={})
 ┣★
@@ -65,14 +65,14 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("✗ ʜᴇʟᴘ​ ✗", callback_data="cbcmds"),
-            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/anonymous_was_bot")
+            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/D_E_V_l_L")
         ],
         [
-            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/DevilsHeavenMF"),
-            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/DevilsHeavenMF")
+            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/About_EVERETT"),
+            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/About_EVERETT")
         ],
         [
-            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/AnonymousBoy1025/BabyGirlMusic")
+            InlineKeyboardButton("✗ [🎥ꜰᴏʀ ᴍᴏᴠɪᴇꜱ🎥]​ ✗", url="https://t.me/backup_channel_000")
         ]
     ]
 )
@@ -80,8 +80,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/DevilsHeavenMF"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/anonymous_was_bot")
+            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/About_EVERETT"),
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/D_E_V_l_L")
         ]
     ]
 )
@@ -207,7 +207,7 @@ async def cbcmds(_, query: CallbackQuery):
 » /unmute - UnMute The Assistant On Voice Chat
 » /playlist - Show You The Playlist
 » /restart - Restart The Bot
-🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦__ 🥵""")
+🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝐄𝐕𝐄𝐑𝐄𝐓𝐓 🥵""")
 
 
 @bot.on_message(filters.command("start") & filters.private)
