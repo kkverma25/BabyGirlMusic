@@ -213,7 +213,7 @@ async def cbcmds(_, query: CallbackQuery):
 @bot.on_message(filters.command("start") & filters.private)
 async def start_private(_, message):
     msg = START_TEXT.format(message.from_user.mention, OWNER_ID, OWNER_ID)
-    await message.reply_photo(photo="https://telegra.ph/file/a1df257c1e940167d8461.jpg",
+    await message.reply_photo(photo="https://telegra.ph/file/640871097c0cd580b5eea.jpg",
                              caption = msg,
                              reply_markup = START_BUTTONS)
     
@@ -235,7 +235,7 @@ async def join_chat(c: Client, m: Message):
 
 @bot.on_message(filters.command("start") & filters.group)
 async def start_group(_, message):
-    await message.reply_photo(photo="https://telegra.ph/file/a1df257c1e940167d8461.jpg",
+    await message.reply_photo(photo="https://telegra.ph/file/640871097c0cd580b5eea.jpg",
                               caption = f"ʜᴇʏ 😘 {message.from_user.mention},\n ᴍᴇ ɪᴢ ᴅᴇᴅ ʙᴀʙʏ​ 😴",
                               reply_markup = BUTTONS)
 
