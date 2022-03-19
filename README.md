@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/7d12a5a7a333e1c532afb.jpg"></a></p>
+<p align="center"><a href="https://t.me/about_everett"><img src="https://telegra.ph/file/4a03836c010095a348667.jpg"></a></p>
 
 Telegram bot for streaming music and video on telegram by the help of Telegram VideoChat Feature, 
 Powered by <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>
@@ -54,7 +54,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kkverma25/BabyGirlMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ### Special Credits 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/kkverma25): Developer
+- [𝐄𝐕𝐄𝐑𝐄𝐓𝐓](https://github.com/kkverma25): Developer
 
 ### Support 🎑
 <a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-DevilsHeavenMF-blue.svg?style=for-the-badge&logo=Telegram"></a>
