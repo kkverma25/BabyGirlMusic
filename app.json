@@ -1,8 +1,8 @@
 {
-  "name": "♡︎ ʙᴀʙʏ ɢɪʀʟ ᴍᴜsɪᴄ ♡︎",
+  "name": "♔ᴍɪᴍɪ ᴍᴜꜱɪᴄ♔",
   "description": "A Telegram Bot To Play Songs In Telegram Group Video Chats. Powered by PyTGCalls.",
   "keywords": ["Music", " Videochat", "Voicechat", "Telegram"],
-  "logo": "https://telegra.ph/file/22ae93512721d5186932e.jpg",
+  "logo": "https://telegra.ph/file/640871097c0cd580b5eea.jpg",
   "repository": "https://github.com/kkverma25/BabyGirlMusic",
   "stack": "container",
   "env": {
