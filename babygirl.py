@@ -68,11 +68,11 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/D_E_V_l_L")
         ],
         [
-            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/About_EVERETT"),
+            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/Chatt_hub"),
             InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/About_EVERETT")
         ],
         [
-            InlineKeyboardButton("✗ [🎥ꜰᴏʀ ᴍᴏᴠɪᴇꜱ🎥]​ ✗", url="https://t.me/backup_channel_000")
+            InlineKeyboardButton("✗ [🎥ꜰᴏʀ ᴍᴏᴠɪᴇꜱ🎥]​ ✗", url="https://t.me/EVERETTmovies")
         ]
     ]
 )
